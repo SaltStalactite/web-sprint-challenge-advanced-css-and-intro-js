@@ -27,7 +27,7 @@ Please answer the following questions below, you may edit the readme file to inc
 3. How would you explain the concept of a variable to someone new to programming?
 4. What is the purpose of using functions in code?
 5. How do you access a key inside of an object inside of an array?
-
+test
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
 ## Instructions
